@@ -66,9 +66,6 @@ The objective is to extract clean, structured data that can be used for analysis
 
 ✔ End-to-end workflow from scraping → cleaning → exporting
 
-📞 **Phone:** [9322391480](tel:+919322391480)
-
-
 If you like this project or want to collaborate, feel free to connect!
 🙋‍♂️ Mayur Sawant
 🔗 **LinkedIn:** [Mayur Sawant](https://www.linkedin.com/in/mayur-sawant-23612b2ba)
