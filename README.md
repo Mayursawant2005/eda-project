@@ -68,7 +68,7 @@ The objective is to extract clean, structured data that can be used for analysis
 
 If you like this project or want to collaborate, feel free to connect!
 🙋‍♂️ Mayur Sawant
-🔗 **LinkedIn:** [Mayur Sawant](https://www.linkedin.com/in/mayur-sawant-23612b2ba)
-📧 **Email:** [sawantmayur351@gmail.com](mailto:sawantmayur351@gmail.com) 
+🔗 LinkedIn:[https://www.linkedin.com/in/mayur-sawant-23612b2ba]
+📧 Email:[sawantmayur351@gmail.com)
 
-Gmail:sawantmayur351@gmail.com
+
